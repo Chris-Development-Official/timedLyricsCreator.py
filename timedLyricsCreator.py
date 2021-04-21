@@ -18,6 +18,7 @@ def formatTime(x):
     return result
 
 print("TimedLyricsCreator")
+print(" ...by Chris Development 2021")
 print("_____________________________")
 print("")
 print("Running in: " + thisdir)
@@ -48,8 +49,8 @@ for filename in os.listdir(thisdir):
                             print("Set...")
                         elif i==3:
                             print("Go!")
-                    
-                    media_player = vlc.MediaPlayer()                      
+                                               
+                    media_player = vlc.MediaPlayer()
                     media = vlc.Media(filename)
                     media_player.set_media(media)
                     media_player.play()
@@ -113,3 +114,4 @@ print("Operation completed successfully")
 
 while 1:
     input()
+
