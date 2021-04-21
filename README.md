@@ -12,7 +12,7 @@ This python program is used to synchronize embedded lyrics in mp3 songs.
 
 ## How to use it.
 
-Download timedLyricsCreator.py and put it in a folder.
+Download [timedLyricsCreator.py](https://github.com/Chris-Development-Official/timedLyricsCreator.py/blob/main/timedLyricsCreator.py) and put it in a folder.
 
 In the same folder add all the mp3 (with the lyrics embedded as id3 tag) you wish to work with.
 
