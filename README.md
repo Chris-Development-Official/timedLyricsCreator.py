@@ -34,7 +34,7 @@ Install extra dependecies with:
 `pip install music-tag`
 
 ## Licence.
-Licenced under [MIT Licence](https://github.com/Chris-Development-Official/timedLyricsCreator.py/blob/main/LICENSE).
+Licensed under [MIT License](https://github.com/Chris-Development-Official/timedLyricsCreator.py/blob/main/LICENSE).
 
 You can modify this program as you see fit to meet your needs for personal use only.
 
