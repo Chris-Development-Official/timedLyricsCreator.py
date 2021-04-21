@@ -33,7 +33,7 @@ Install extra dependecies with:
 `pip install python-vlc` and 
 `pip install music-tag`
 
-## Licence.
+## License.
 Licensed under [MIT License](https://github.com/Chris-Development-Official/timedLyricsCreator.py/blob/main/LICENSE).
 
 You can modify this program as you see fit to meet your needs for personal use only.
