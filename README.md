@@ -27,7 +27,9 @@ When the procedure is over, lyrics are injected automatically into the correspon
 
 Make sure you have installed all the dependecies first.
 
-Install them with:
+You must have installed [VLC Media Player](https://www.videolan.org/)
+
+Install extra dependecies with:
 `pip install python-vlc` and 
 `pip install music-tag`
 
