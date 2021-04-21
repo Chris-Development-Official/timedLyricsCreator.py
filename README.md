@@ -42,4 +42,4 @@ Feel free to suggest any improvals.
 
 ### Hope it helps you!! 	:grinning:
 
-*Made with :heart: by Chris Development :copyright: 2021*
+*Made with :heart: by Chris Development © 2021.*
