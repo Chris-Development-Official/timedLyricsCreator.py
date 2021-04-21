@@ -49,8 +49,6 @@ for filename in os.listdir(thisdir):
                         elif i==3:
                             print("Go!")
                     
-                    os.environ["VLC_VERBOSE"] = str("-1")
-                    self.vlc_player = vlc.MediaPlayer("--verbose -1")
                     media_player = vlc.MediaPlayer()                      
                     media = vlc.Media(filename)
                     media_player.set_media(media)
@@ -115,4 +113,3 @@ print("Operation completed successfully")
 
 while 1:
     input()
-
