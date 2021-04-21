@@ -43,6 +43,6 @@ Feel free to suggest any improvals.
 
 
 
-### Hope it helps you!! 	:relaxed:
+### Hope it helps!! 	:relaxed:
 
 *Made with :heart: by Chris Development © 2021.*
